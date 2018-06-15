@@ -1,7 +1,7 @@
 # Combinatorial Hive Package
 
 This folder contains a series of scripts and functions used to explore the Appleby-Whitehead construction for generating combinatorial hives of the type described by Knutson and Tao in their proof of the saturation conjecture.
-For theoretical insight, see the work (in publication) here: https://doi.org/10.1080/10586458.2018.1473822.
+For theoretical insight, see the work (in publication) here: https://doi.org/10.1080/10586458.2018.1473822. See also AWCompilationPrePrint.pdf for an open draft.
 
 The code is largely self-documenting.
 
